@@ -1,12 +1,11 @@
 # sobre mim **gabi**
-**ola, eu sou
-:+1 meu [e-mail](gabriella.mocelin.silva@escola.pr.gov.br)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### **Olá, eu sou Gabi
+:+1: meu [e-mail](gabriella.mocelin.silva@escola.pr.gov.br)
+- 💞️ eu estou aprendendo linguagem de progamação
+- 📫 voce pode me encontrar aqui no github.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: eu uso oculos 
 
 <!---
-wgabvs/wgabvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+esta tag serve para fazer comentarios
 --->
